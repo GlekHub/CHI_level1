@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CHI-level1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="increase">increase</string>
+    <string name="_0">0</string>
+    <string name="go_to_fragment">go to fragment</string>
+    <string name="сlick_the_button">Сlick the button</string>
+</resources>
